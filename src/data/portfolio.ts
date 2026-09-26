@@ -39,9 +39,9 @@ export const personalInfo = {
     graduation: "2027",
   },
   social: {
-    email: "parthasarathi@example.com",
-    linkedin: "https://linkedin.com/in/your-profile",
-    github: "https://github.com/your-username",
+    email: "parthasarathiatwork@gmail.com",
+    linkedin: "https://www.linkedin.com/in/parthasarathi22",
+    github: "https://github.com/prajeeth-s22",
   },
   resumeUrl: "/resume.pdf",
 };
